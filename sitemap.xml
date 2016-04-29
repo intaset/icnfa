@@ -4,9 +4,9 @@
 
    <url>
 
-      <loc>http://www.icnfa.com/index.html</loc>
+      <loc>http://www.2017.icnfa.com/index.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-04-29</lastmod>
 
       <priority>0.8</priority>
 
@@ -14,19 +14,9 @@
 
   <url>
 
-      <loc>http://www.icnfa.com/papers.html</loc>
+      <loc>http://www.2017.icnfa.com/papers.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnfa.com/program.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-04-29</lastmod>
 
       <priority>0.8</priority>
 
@@ -34,19 +24,9 @@
 
    <url>
 
-      <loc>http://www.icnfa.com/dates.html</loc>
+      <loc>http://www.2017.icnfa.com/program.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnfa.com/registration.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-04-29</lastmod>
 
       <priority>0.8</priority>
 
@@ -54,19 +34,9 @@
 
    <url>
 
-      <loc>http://www.icnfa.com/committee.html</loc>
+      <loc>http://www.2017.icnfa.com/dates.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnfa.com/keynote.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-04-29</lastmod>
 
       <priority>0.8</priority>
 
@@ -74,19 +44,9 @@
 
    <url>
 
-      <loc>http://www.icnfa.com/sponsor.html</loc>
+      <loc>http://www.2017.icnfa.com/registration.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnfa.com/venue.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-04-29</lastmod>
 
       <priority>0.8</priority>
 
@@ -94,9 +54,9 @@
 
    <url>
 
-      <loc>http://www.icnfa.com/accommodation.html</loc>
+      <loc>http://www.2017.icnfa.com/committee.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-04-29</lastmod>
 
       <priority>0.8</priority>
 
@@ -104,9 +64,49 @@
 
    <url>
 
-      <loc>http://www.icnfa.com/symposium.html</loc>
+      <loc>http://www.2017.icnfa.com/keynote.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-04-29</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.2017.icnfa.com/sponsor.html</loc>
+
+      <lastmod>2016-04-29</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.2017.icnfa.com/venue.html</loc>
+
+      <lastmod>2016-04-29</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.2017.icnfa.com/accommodation.html</loc>
+
+      <lastmod>2016-04-29</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.2017.icnfa.com/symposium.html</loc>
+
+      <lastmod>2016-04-29</lastmod>
 
       <priority>0.8</priority>
 
