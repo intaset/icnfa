@@ -301,12 +301,10 @@ mail($my_email,$subject,$message,$headers);
       </section>
     <h2>Upcoming Dates</h2>
 
-<h2>Upcoming Dates</h2>
-
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Nov. 1, 2016
+    Dec. 1, 2016
   </div>
 </div>
 
@@ -320,7 +318,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Jan. 15, 2017
+    Feb. 15, 2017
   </div>
 </div>
 
@@ -334,7 +332,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Feb. 1,<br>2017
+    Mar. 1, 2017
   </div>
 </div>
 
@@ -420,7 +418,7 @@ mail($my_email,$subject,$message,$headers);
 </footer> 
 
 <div class="copyright">
-  <a href="international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
+  <a href="http://international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
   <p class="body">&copy; Copyright International ASET Inc., 2016. All rights reserved.</p>
   <p class="copyright1">Have any feedback? Please provide them here: <script>var refURL = window.location.protocol + "//" + window.location.host + window.location.pathname; document.write('<a href="http://international-aset.com/feedback/?refURL=' + refURL+'" class="body-link">Feedback</a>');</script></p>
 </div>

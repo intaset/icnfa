@@ -1,4 +1,4 @@
--moz-viewport { width: device-width; scale: 1; }
+@-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1; }
 @-o-viewport { width: device-width; scale: 1; }
 @-webkit-viewport { width: device-width; scale: 1; }
@@ -100,6 +100,11 @@ text-transform: uppercase;
 font-size: 1.5em;
 margin: 0;
 color: #1A4046;
+}
+
+.symposium .body {
+    text-indent: 2em;
+    padding-bottom: 0;
 }
 
 .body {
@@ -269,7 +274,7 @@ th {
 }
 
 .keynotes .unit-spacer {
-	padding: 2em 1em;
+	padding: 1em 1em;
 }
 
 .keynote-info {
@@ -325,6 +330,15 @@ th {
 
 .border {
 	border-bottom: #1A4046 1px solid;
+}
+
+.paypal table {
+    width: inherit;
+}
+
+.paypal tr {
+    border: 0;
+    text-align: center;
 }
 
 /* HEADER & NAVIGATION */
@@ -787,6 +801,7 @@ textarea {
   font-family: 'Lato', sans-serif;
   letter-spacing: 1px;
   text-align: center;
+  font-weight: 400;
 }
 
 .copyright .copyright1 {
@@ -1107,6 +1122,13 @@ footer {
 }
 }
 
+/* Up to 600 PX */
+@media only screen and (max-width: 37.5em) {
+	.keynotes .unit-spacer {
+    padding: 1em 1em;
+	}
+}
+
 /* 768 PX */
 @media only screen and (min-width: 48em) {
 .topics li {
@@ -1385,8 +1407,4 @@ footer form {
 	.cbp-af-header nav a {
   font-size: 1em!important;
 }
-}
-
-/* 1920 PX */
-@media only screen and (min-width: 119em) {
 }
