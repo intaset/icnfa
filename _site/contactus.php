@@ -251,14 +251,20 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICNFA 2017:</p>
-      <p class="body">ICNFA 2017 will  be held in Rome, Italy on June 7 - 8, 2017.</p>
+      <p class="body">ICNFA 2017 will  be held in Rome, Italy on June 6 - 8, 2017.</p>
       
-      <!-- <p class="bold">ICNFA'16 Symposiums:</p>
-      <p class="body">The Organizing Committee has selected the following fields for specialized and focused symposiums under the umbrella of ICNFA'16:</p>
+      <p class="bold">NewTech'17 Workshop</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the NewTech'17 congress to three days (now June 6 - 8, 2017). The new high-level schedule is as follows:</p>
+
       <ul>
-        <li><a href="/fmrr" class="body-link">Functional Materials from Renewable Resources: Synthesis, Properties and Applications</a></li>
+        <li>Day 1: Workshop(s) and Registration</li>
+        <li>Day 2: Main Track Conference Sessions</li>
+        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
       </ul>
-      <p class="body">If you are interested of your article to be part of the above-mentioned symposiums, please inform us when submitting your article. Please visit <a href="../symposium" class="body-link">Symposiums</a> for more information.</p> -->
+      
+      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+
+      <p class="body">More information to follow; we greatly appreciate your patience!</p>
     </div>       
 
     <div>
