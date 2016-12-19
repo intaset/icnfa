@@ -244,17 +244,15 @@ mail($your_email,$your_subject,$message,$your_headers);
       <p class="body">ICNFA 2017 will  be held in Rome, Italy on June 6 - 8, 2017.</p>
       
       <p class="bold">NewTech'17 Workshop</p>
-      <p class="body">As per popular request, the organizing committee has decided to extend the NewTech'17 congress to three days (now June 6 - 8, 2017). The new high-level schedule is as follows:</p>
+       <p class="body">International ASET Inc. is proud to present <b>Dr. Vladimir Baulin</b> as the presenter of our workshop for the 3<sup>rd</sup> World Congress on New Technologies (NewTech'17).</p>
 
-      <ul>
-        <li>Day 1: Workshop(s) and Registration</li>
-        <li>Day 2: Main Track Conference Sessions</li>
-        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
-      </ul>
-      
-      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+      <cenet><p class="body" style="text-align: center!important;"><b>Topic of Workshop:</b> <i>Smart Nano-objects for Alteration of Lipid bilayers (SNAL)</i></p>
 
-      <p class="body">More information to follow; we greatly appreciate your patience!</p>
+      <p class="body">The workshop will be held on <b>June 6<sup>th</sup>, 2017</b> from <b>2 pm - 5 pm.</b> Registration for the workshop will be <i>121 EURs (VAT included)</i> and separate from the main conferences. Workshop attendees will receive a certificate of participation.</p>
+
+      <p class="body">For registration, please visit: <a href="../registration" class="body-link">here.</a></p>
+
+      <p class="body">For more information about the workshop and the speaker, please visit:  <a href="http://newtechcongress.com/#workshop" class="body-link" target="_blank">here.</a></p>
     </div>       
 
     <div>
