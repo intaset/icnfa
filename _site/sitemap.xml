@@ -1,114 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/index.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.2017.icnfa.com/papers.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/program.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/dates.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/registration.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/committee.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/keynote.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/sponsor.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/venue.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/accommodation.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.2017.icnfa.com/symposium.html</loc>
-
-      <lastmod>2016-04-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>https://icnfa.com/</loc>
+   <lastmod>2018-03-05T14:58:09+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/past-events/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/NewTech18_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/papers/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/program/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/dates/</loc>
+   <lastmod>2018-03-05T14:58:09+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/registration/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/committee/</loc>
+   <lastmod>2018-03-05T14:58:09+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/keynote/</loc>
+   <lastmod>2018-03-05T14:58:09+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/venue/</loc>
+   <lastmod>2018-03-05T14:58:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/accommodation/</loc>
+   <lastmod>2018-03-05T14:58:09+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/sponsor/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/symposium/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/openconf.php</loc>
+   <lastmod>2018-03-05T15:43:37+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/terms/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/sitemap/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/ICNFA18_Paper_Template.docx</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/ICNFA18_Extended_Abstract.docx</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/ICNFA18_CopyrightForm.pdf</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/paper/Keynote%20-%20Dr.Chithrani.pdf</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/paper/Keynote%20-%20Dr.Greiner.pdf</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/paper/Keynote%20-%20Dr.Baba.pdf</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/paper/Keynote%20-%20Dr.Song.pdf</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/contact.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/submit.php</loc>
+   <lastmod>2018-03-05T15:43:43+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/edit.php</loc>
+   <lastmod>2018-03-05T15:43:44+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/upload.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/paper.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/withdraw.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/status.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/review/signin.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/chair/signin.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/banktobank/</loc>
+   <lastmod>2018-03-05T14:58:09+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/moneyorder/</loc>
+   <lastmod>2018-03-05T14:58:09+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/paypal/</loc>
+   <lastmod>2018-03-05T14:58:10+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/email_papers.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/author/reset.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/review/email_username.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/review/reset.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/chair/email_username.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icnfa.com/openconf/chair/reset.php</loc>
+   <lastmod>2018-03-05T15:42:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
 </urlset>
