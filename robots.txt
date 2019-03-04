@@ -1,3 +1,5 @@
 Sitemap: http://www.icnfa.com/sitemap.xml
 
-User-agent: *
+User-Agent: *
+Disallow: /openconf/openconf.php
+Disallow: /openconf/
